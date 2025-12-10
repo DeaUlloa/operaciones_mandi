@@ -1,6 +1,2 @@
-with open("requirements.txt", "w") as f:
-    f.write("""streamlit
-pyngrok
-""")
-
 streamlit==1.33.0
+
